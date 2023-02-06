@@ -45,6 +45,6 @@ button {
 	background-color: darkslategrey;
 	padding: 4px;
 }
-button:hover{
+button:hover {
 	background-color: blue;
 }
